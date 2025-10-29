@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AI/MLops/data_science_p1/mlruns/0/d017bb6d4d0d404a8cf4c97e8880d9d4/artifacts
+end_time: 1761755313583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d017bb6d4d0d404a8cf4c97e8880d9d4
+run_name: efficient-grub-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761755306402
+status: 3
+tags: []
+user_id: USER
