@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AI/MLops/data_science_p1/mlruns/0/2cf794e4ef914c2182006cde7fa20193/artifacts
+end_time: 1761762340338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cf794e4ef914c2182006cde7fa20193
+run_name: dazzling-ray-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761762333862
+status: 3
+tags: []
+user_id: USER
